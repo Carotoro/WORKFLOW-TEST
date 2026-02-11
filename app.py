@@ -1,2 +1,3 @@
 tasa = 3
-precio = 2
+precio = 5
+print(precio * tasa)
